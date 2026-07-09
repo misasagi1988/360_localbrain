@@ -8,3 +8,6 @@
 # OS
 .DS_Store
 Thumbs.db
+
+# Git Bash crash dumps
+sh.exe.stackdump
