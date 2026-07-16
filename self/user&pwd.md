@@ -16,7 +16,7 @@
 **payroll**：Arcelan0
 **teambition**: 主邮箱mengyujing1988@gmail.com, 辅助邮箱meng_yujing@yeah.net
 **termius**: 终端工具，apple账号，密码是 Misasagi1988
-**360邮箱**: mengyujing@360.cn,  MisasagiQihooS0c, MisasagiArcelan19880506, Q!hooS0cMisasagi, MisasagiArcelan19880506,MisasagiArcelan19881011,MisasagiArcelan880619,ArcelanMisasagi19881011, MisasagiArcelan19880619
+**360邮箱**: mengyujing@360.cn,  MisasagiQihooS0c, MisasagiArcelan19880506, Q!hooS0cMisasagi, MisasagiArcelan19880506,MisasagiArcelan19881011,MisasagiArcelan880619,ArcelanMisasagi19881011, MisasagiArcelan19880619，ArcelanMisasagi881011
 **360家**: http://home.qihoo.net/, mengyujing/s43MT^JN$2B^j4^
 **360服务器后台密码**：S3cur!tyQ!hooS0c，账号:  mengyujing
 **360 gitlab**: mengyujing@360.cn, MisasagiArcelan880619

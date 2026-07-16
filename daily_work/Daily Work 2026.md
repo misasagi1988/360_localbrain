@@ -5,6 +5,25 @@
 ---
 
 
+### 2026-07-16
+
+- 国家管网资产风险等级问题support, artifact后台日志报错，除了资产模块外，secinfo模块也会发数据到那个topic，它发的数据缺少risk_score，导致artifact报错。问题一直存在。
+
+### 2026-07-15
+
+- 国家管网资产风险等级问题support, artifact后台日志报错，资产发的数据缺少risk_score字段，查看定制代码，修改bug
+- 浦发，全局关联分析功能定制，sae-monitor功能定制改造
+- 中石化support，威胁告警详情页面，告警格式优化文档：https://geelib.qihoo.net/geelib/knowledge/doc?spaceId=1384&docId=166137
+
+### 2026-07-14
+
+- 本脑网专抽查support，修改前端两个页面js，流水线出包有问题，只能修改文件重新压缩凑数
+- 货讯通漏洞修复，nacos proxy代理访问有问题support
+
+### 2026-07-10
+
+- 交行数据外发不成功问题support，告警的occur_time有问题，是超前的，导致很多其他数据被漏掉了
+
 ### 2026-07-08
 
 - 测试，5.0 arm环境soar安装失败问题分析，新包的python镜像tag与安装脚本代码不一致导致；packetbeat模块启动失败问题分析，非root用户导致。
